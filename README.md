@@ -2,4 +2,4 @@
 
 ## - An overview of methodology -
 
-![Test Image 1](/github_images/Overview of methodology.png)
+![Test Image 1](github_images/Overview of methodology.png)
