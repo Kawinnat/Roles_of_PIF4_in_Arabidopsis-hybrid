@@ -2,4 +2,4 @@
 
 ## - An overview of methodology -
 
-![](/home/kawinnat/Documents/github_kawinnat/Roles_of_PIF4_in_Arabidopsis-hybrid/github_images/Overview of methodology.png)
+![](/github_images/Overview of methodology.png)
